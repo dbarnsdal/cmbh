@@ -1,0 +1,13 @@
+[INFO              ] Logger: Record log in /Users/dbarnsdale/code/cmbh/Kivy.app/Contents/Resources/.kivy/logs/kivy_18-02-19_5.txt
+[INFO              ] Kivy: v1.9.1
+[INFO              ] Python: v3.5.0 (default, Dec 12 2015, 05:50:29) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
+[WARNING           ] stderr: Traceback (most recent call last):
+[WARNING           ] stderr:   File "game.py", line 6, in <module>
+[WARNING           ] stderr:     import pysprites as pys
+[WARNING           ] stderr:   File "/Users/dbarnsdale/code/cmbh/Kivy.app/Contents/Frameworks/python/3.5.0/lib/python3.5/site-packages/pysprites/__init__.py", line 1, in <module>
+[WARNING           ] stderr:     from .sprites import *
+[WARNING           ] stderr:   File "/Users/dbarnsdale/code/cmbh/Kivy.app/Contents/Frameworks/python/3.5.0/lib/python3.5/site-packages/pysprites/sprites.py", line 278
+[WARNING           ] stderr:     print sprites.__doc__
+[WARNING           ] stderr:                 ^
+[WARNING           ] stderr: SyntaxError: Missing parentheses in call to 'print'

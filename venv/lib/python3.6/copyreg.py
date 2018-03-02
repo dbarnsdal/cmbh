@@ -1,0 +1,1 @@
+/users/dbarnsdale/code/miniconda/lib/python3.6/copyreg.py
